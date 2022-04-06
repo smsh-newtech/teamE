@@ -1,2 +1,2 @@
-# maincode
-https://smsh-newtech.github.io/maincode/
+# Team E
+https://smsh-newtech.github.io/teamE/
